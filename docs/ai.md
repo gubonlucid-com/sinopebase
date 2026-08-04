@@ -164,3 +164,4 @@ const result = await agent.generate([
 | **Streaming** | SSE + AI SDK v5 | SSE via chatStream |
 | **Embeddings** | OpenAI / Google | OpenAI-compatible |
 | **Open source** | Yes (hosted) | Yes (self-hosted) |
+ 
